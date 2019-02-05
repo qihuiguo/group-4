@@ -17,6 +17,8 @@ void memberQihui(){
 	printf("Qihui Guo"); 
 	printf("Freshmen");
 	printf("Computer Science");
+	printf("Sports, running");
+	printf("Fuzhou,Fujian, China");
 }
 void memberBrendan(){
 //member 5 info
