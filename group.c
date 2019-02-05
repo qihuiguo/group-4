@@ -15,6 +15,8 @@ void memberColton(){
 void memberQihui(){
 //member 4 info
 	printf("Qihui Guo"); 
+	printf("Freshmen");
+	printf("Computer Science");
 }
 void memberBrendan(){
 //member 5 info
